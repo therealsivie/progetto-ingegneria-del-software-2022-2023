@@ -1,1 +1,2 @@
-# progetto-ingegneria-del-softwarare-2022-2023
+# Progetto Ingegneria Del Softwarare 2022/2023
+## Svolto da Matilde Simonini, Leonardo Sivieri, Alessandro Taboni
